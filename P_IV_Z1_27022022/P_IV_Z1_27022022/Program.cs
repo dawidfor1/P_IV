@@ -6,7 +6,7 @@ namespace P_IV_Z1_27022022
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello PIV!");
         }
     }
 }
